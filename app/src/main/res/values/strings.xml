@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Fave Sites</string>
+
+    <string-array name="description_array">
+        <item>Facebook, a cool site for old people</item>
+        <item>Google, a great site for Googling Google</item>
+        <item>Instagram, a great site to show people what you ate for lunch</item>
+    </string-array>
+    <!-- TODO: store the corresponding URIs as strings here! -->
+</resources>
